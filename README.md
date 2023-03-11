@@ -15,3 +15,4 @@ Description:
 - Support for several languages
 - Support for notification service in android
 - Support for adsence...
+- Support for temp/weather forecast widget.
